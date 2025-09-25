@@ -1,0 +1,13 @@
+name: "sgd"
+lr: 1e-2
+mlp_lr: 2e-3
+hidden: 128
+factor: 2
+momentum: 0.9
+weight_decay: 1e-4
+nesterov: true
+
+cos: true
+exp: false
+schedule: [10, 20]
+gamma: 0.2

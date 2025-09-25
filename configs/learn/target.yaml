@@ -1,0 +1,22 @@
+# loop logistics
+epochs: 15
+start_epoch: 0
+print_freq: 10
+
+# loss
+contrast_type: "class_aware"
+ce_type: "standard" # ["standard", "symmetric", "smoothed", "soft"]
+
+
+probs_thres: 0.75
+num_thres: 0.75
+
+Alpha: 0.1
+Beta: 0.5
+Gamma: 1
+
+# algo-related stuff
+dist_type: "cosine" # ["cosine", "euclidean"]
+queue_size: -1
+epoch_labeling: false
+tpt: false
