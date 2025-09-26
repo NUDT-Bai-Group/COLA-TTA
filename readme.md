@@ -110,6 +110,7 @@ bash scripts/train_OfficeHome_target.sh
 
 - Set `DATA_ROOT` env var to point to datasets.
 - `requirements.txt` pins pip deps; `environment.yaml` provides full conda env.
+- This code is licensed under the Apache-2.0 License.
 
 
 ---
