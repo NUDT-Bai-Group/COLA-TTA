@@ -103,7 +103,7 @@ bash scripts/train_PACS_target.sh
 ```bash
 bash scripts/train_OfficeHome_target.sh
 ```
-
+</details>
 ---
 
 ## Notes
