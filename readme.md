@@ -135,7 +135,7 @@ We thank the authors and the open-source community for their contributions.
 ## Reference
 If you find this work helpful, please cite:
 ```bibtex
-@ARTICLE{11174099,
+@ARTICLE{Zhang2025COLA,
   author={Zhang, Aiming and Yu, Tianyuan and Bai, Liang and Tang, Jun and Guo, Yanming and Ruan, Yirun and Zhou, Yun and Lu, Zhihe},
   journal={IEEE Transactions on Image Processing}, 
   title={COLA: Context-Aware Language-Driven Test-Time Adaptation}, 
