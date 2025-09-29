@@ -126,6 +126,7 @@ bash scripts/train_OfficeHome_target.sh
 Built upon:
 - [CLIP](https://github.com/openai/CLIP)
 - [AdaContrast](https://github.com/DianCh/AdaContrast)
+- [CoOp](https://github.com/KaiyangZhou/CoOp/tree/main)
 - [CLIP-Adapter](https://github.com/CLIP-Adapter/CLIP-Adapter)
 
 We thank the authors and the open-source community for their contributions.
