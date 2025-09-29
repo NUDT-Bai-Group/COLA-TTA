@@ -135,14 +135,15 @@ We thank the authors and the open-source community for their contributions.
 ## Reference
 If you find this work helpful, please cite:
 ```bibtex
-@ARTICLE{Zhang2025COLA,
+@ARTICLE{11174099,
   author={Zhang, Aiming and Yu, Tianyuan and Bai, Liang and Tang, Jun and Guo, Yanming and Ruan, Yirun and Zhou, Yun and Lu, Zhihe},
-  journal={IEEE Transactions on Image Processing},
-  title={COLA: Context-aware Language-driven Test-time Adaptation},
+  journal={IEEE Transactions on Image Processing}, 
+  title={COLA: Context-Aware Language-Driven Test-Time Adaptation}, 
   year={2025},
-  volume={},
+  volume={34},
   number={},
-  pages={1-1},
-  doi={10.1109/TIP.2025.3607634}
-}
+  pages={6002-6015},
+  keywords={Adaptation models;Data models;Training;Modeling;Computational modeling;Predictive models;Optimization;Feature extraction;Visualization;Limiting;Test-time adaptation;vision-language model;domain adaptation},
+  doi={10.1109/TIP.2025.3607634}}
+
 ```
